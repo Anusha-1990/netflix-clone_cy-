@@ -1,0 +1,25 @@
+.banner{
+    background-image:url(./Assets/login-bg.jpeg);
+    height: 60vh;
+}
+body{
+    background-color: rgb(15, 14, 14);
+}
+.login-top{
+    width: 100vw;
+    height: 70px;
+    background-color: rgba(0, 0, 0, 0);
+    padding: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.login-top img{
+    width: 150px;
+}
+
+
+details>summary::marker{
+    content: "";
+}
+
